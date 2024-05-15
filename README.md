@@ -1,4 +1,4 @@
-#[링크](minsu-react-scheduler.netlify.app)
+# [링크](minsu-react-scheduler.netlify.app)
 
 # React + Vite
 
