@@ -1,0 +1,36 @@
+*{
+  text-align: center;
+  justify-content: center;
+  background-color: whitesmoke;
+}
+
+.fin-btn{
+  background-color: aquamarine;
+  border-radius: 10px;
+  width: calc(50% - 10px);
+  height: 30px;
+}
+
+.delete-btn{
+  background-color: tomato;
+  border-radius: 10px;
+  width: calc(50% - 10px);
+  height: 30px;
+}
+
+.item-title{
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: transparent;
+  margin-bottom: 30px;
+}
+
+.item-todo{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+  background-color: transparent;
+  height: 300px;
+  word-wrap: break-word;
+  white-space: normal;
+}
